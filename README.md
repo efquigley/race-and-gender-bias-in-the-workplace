@@ -1,7 +1,7 @@
 # race-and-gender-bias-in-the-workplace
 
 ## Research Question
-For the project, I had to create a survey with one element that I could change to see how it affected the results. The element I chose to study was the race and gender of a professional, and how it affected what someone thought of them.
+For the project, I had created a survey with one element that I could change to see how it affected the results. The element I chose to study was the race and gender of a professional, and how it affected what someone thought of them.
 
 ## Methodology
 I created a survey in which participants first read an article, then answered three questions. The article presented the “Long Island Surface Water Group” chairperson’s plan to prepare for harsh weather. The chairperson’s identity was changed four times to create four different articles including either a black chairwoman, a black chairman, a white chairwoman, or a white chairman. Participants were put into four groups, and each group was randomly shown only one article. After reading the article, participants ranked the competence, trustworthiness, and ability of the chairperson they read about.
